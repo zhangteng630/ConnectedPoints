@@ -1,10 +1,10 @@
 /*
-* File:			main.cxx
+* File:		main.cxx
 * Description:	A utility to build a graph from tirangled surface, and to extract connected points.
-* Author:		Zhang Teng, PhD Candidate
+* Author:	Zhang Teng, PhD Candidate
 * Organization:	Department of Imaging and Interventional Radiology, Chinese University of Hong Kong
-* Mailbox:		zhangteng630@gmail.com
-* License:		GNU GPL
+* Mailbox:	zhangteng630@gmail.com
+* License:	GNU GPL
 *
 * Created on January 15, 2016, 10:21 AM
 */
